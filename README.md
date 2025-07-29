@@ -10,7 +10,7 @@
 - `cleanup.sh`: Script to clean up Docker containers and volumes.
 - `joomla.backup.tar.gz`: Compressed backup archive (Includes my SQLdata file and Website information file such as design etc).. 
 
-Step by step guide to restore my website: 
+## Step by step guide to restore my website: 
 
 - Clone our repo:
 git clone https://github.com/Fielding27/Joomla-.git
