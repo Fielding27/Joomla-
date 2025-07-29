@@ -12,24 +12,24 @@
 
 Step by step guide to restore my website: 
 
-Clone our repo:
+- Clone our repo:
 git clone https://github.com/Fielding27/Joomla-.git
 
-Enter the saved folder now:
+- Enter the saved folder now:
 cd Joomla-
 
-Run the setup script from the folder:
+- Run the setup script from the folder:
 chmod +x setup.sh
 ./setup.sh
 
-Restore the needed files (Automatically does all restores zips the files and does everything automatically.)
+- Restore the needed files (Automatically does all restores zips the files and does everything automatically.)
 chmod +x restore.sh
 ./restore.sh
 
-In order to access the website use the following link:
+- In order to access the website use the following link:
 http://localhost:8080
 
-In the end in order to clean everything from your computer use the following command:
+- In the end in order to clean everything from your computer use the following command:
 chmod +x cleanup.sh
 ./cleanup.sh
 
