@@ -33,5 +33,22 @@ In the end in order to clean everything from your computer use the following com
 chmod +x cleanup.sh
 ./cleanup.sh
 
-Thank you for using our website :)
+Details about our scripts:
+## How to Use
+1. Run `setup.sh` to start Joomla and MySQL containers.
+2. Run `backup.sh` to create a backup archive.
+3. Run `restore.sh` to restore the site and database from the backup.
+4. Run `cleanup.sh` to remove all containers, images, and volumes.
 
+
+
+## Requirements
+- Docker
+- Bash shell
+- Linux or Windows with WSL
+
+
+
+## Contact
+For questions, contact me at Fhailyandro4@gmail.com
+Thank you for using our website :)
