@@ -1,6 +1,6 @@
 # Joomla Website (Guide to restore the website)
-Author: Andro Fhaily (Software enginner student) \n
-Main Purpose of this project: This project automates setup, backup, restore, and cleanup of a Joomla website and MySQL database using Docker containers. We also built a website with 30 concepts on it and we were required to save it in our project as well.
+- Author: Andro Fhaily (Software enginner student) 
+- Main Purpose of this project: This project automates setup, backup, restore, and cleanup of a Joomla website and MySQL database using Docker containers. We also built a website with 30 concepts on it and we were required to save it in our project as well.
 Whats been done on this project :
 ## Project Contents
 
